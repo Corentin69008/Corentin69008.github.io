@@ -3,6 +3,7 @@ layout: post
 title:  "19 Juin 2021"
 date:   2021-05-19
 ---
+
 ## 19 Mai
 
 - Création d'un compte Hackmd et verification aux notes
@@ -18,7 +19,7 @@ date:   2021-05-19
     - https://youtu.be/rP3T0Ee6pLU
     - https://youtu.be/chhVBZfRFgl
     - https://youtu.be/ZY5A7kUR0S4
-    
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
