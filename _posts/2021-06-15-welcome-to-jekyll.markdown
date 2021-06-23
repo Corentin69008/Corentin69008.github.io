@@ -3,26 +3,22 @@ layout: post
 title:  "19 Juin 2021"
 date:   2021-05-19
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 19 Mai
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
+- Création d'un compte Hackmd et verification aux notes
+- Installation et création d'un compte Keybase (https://keybase.io/)
+- Installation de Git (https://git-scm.com/)
+- Apprendre (comprendre) à utiliser Git et Github 
+    - https://try.github.io/
+    - https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement
+    (création d'un compte OpenClassRoom pour poursuivre les tutos)
+    - https://www.ionos.fr/digitalguide/sites-internet/developpement-web/tutoriel-git/
+    - Autre ressource pour apprendre Git:
+    Vidéo Youtube:
+    - https://youtu.be/rP3T0Ee6pLU
+    - https://youtu.be/chhVBZfRFgl
+    - https://youtu.be/ZY5A7kUR0S4
+    
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
