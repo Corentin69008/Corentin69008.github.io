@@ -3,3 +3,17 @@ layout: post
 title: "PFMP"
 --- 
 
+- Création d'un compte Hackmd et verification aux notes de stage du Journal
+- Installation et création d'un compte Keybase (https://keybase.io/)
+- Installation de Git (https://git-scm.com/)
+- Création d'un compte GitHub (https://github.com/)
+- Apprendre ou comprendre à utiliser Git et GitHub:
+       
+        - https://try.github.io/
+	- tuto sur OpenClassRoom:
+	 https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement
+	- https://www.ionos.fr/digitalguide/sites-internet/developpement-web/tutoriel-git/
+	- vidéo youtube:
+	  https://youtu.be/rP3T0Ee6pLU
+	  https://youtu.be/chhVBZfRFgl
+	  https://youtu.be/ZY5A7kUR0S4 
