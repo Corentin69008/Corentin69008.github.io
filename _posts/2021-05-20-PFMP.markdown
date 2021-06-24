@@ -3,12 +3,12 @@ layout: post
 title: "PFMP jour n°2"
 --- 
 
-J'ai eu un blocage sur la compréhension de Git et GitHub.
-https://fr.wikipedia.org/wiki/Git
+J'ai eu un blocage sur la compréhension de Git et GitHub
+  - (https://fr.wikipedia.org/wiki/Git)
 
 Les "domaines de compétences" pour développement
 - algorithmie pour modéliser les séquences d'actions de résolution de problème:
-https://fr.wikipédia.org/wiki/algorithmie
+  - (https://fr.wikipédia.org/wiki/algorithmie)
 - Langage de programmation pour écrire des alogorithmes.
 Cet écrit pourra être lu par une machine (qui calcul très vite), sera lu et relu par d'autres humain
 - Machine
@@ -16,10 +16,10 @@ Cet écrit pourra être lu par une machine (qui calcul très vite), sera lu et r
 Pour écrire un programme, nous avons besoin d'outil:
 - Le système d'exploitation (Windows, GNU/Linux, Unix, MacOS, Ios, ...)
 - Editeur de texte ou IDE
-(https://fr.wikipedia.org/wiki/Environnement_de_développement)
+  - (https://fr.wikipedia.org/wiki/Environnement_de_développement)
 - Terminal (https://fr.wikipedia.org/wiki/Terminal)
 - Gestionnaire de version 
-(https://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions)
+  - (https://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions)
 
 Ce que j'ai du faire:
 - Apprendre ou enrichir ma compréhension à me servir d'un terminal
