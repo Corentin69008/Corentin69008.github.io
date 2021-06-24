@@ -9,8 +9,11 @@ On a utiliser la commande 'rm -rf .git' pour supprimer le répertoire '.git'
 qui a été créé dans un dossier
 
 On a aussi fait la configuration de Git
+
 'git config --global user.email "mon-email@exemple.com"' et
+
 'git config --global user.name "Mon Nom"'
+
 'git log' pour afficher l'historique des commits.
 
 On a fait notre premier commit en utilisant l'interface de VisualCodeStudio.
