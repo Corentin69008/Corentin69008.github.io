@@ -23,12 +23,12 @@ Pour écrire un programme, nous avons besoin d'outil:
 
 Ce que j'ai du faire:
 - Apprendre ou enrichir ma compréhension à me servir d'un terminal
-https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal
+(https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
 
 - Commencer à me servir de Git: 
-  - https://www.atlassian.com/fr/git/tutorials 
+  - (https://www.atlassian.com/fr/git/tutorials) 
   catégorie "débutant" (SSH Git, Archive Git, GitOps en option) et "Introduction"
-  - https://www.miximum.fr/blog/decouvrir-git/
+  - (https://www.miximum.fr/blog/decouvrir-git/)
   - et continuer / finir le cours d'OpenClassRoom sur Git 
     le cours je les terminer 
 
