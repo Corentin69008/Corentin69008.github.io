@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "PFMP"
+--- 
+
+J'avais compris un peu plus comment utilisez Git
+
+Ce que je devais faire:
+- Site web en Python, versionné dans Git
+
+Objectif: cloner le projet avec Git pour l'installer localement,
+lancer le serveur et voir le site sur la machine.
+
+Utilisation de [Flask]: https://flask.palletsprojects.com/en/2.0.x/
+Au début je ne comprenais pas trop comment y utiliser.
