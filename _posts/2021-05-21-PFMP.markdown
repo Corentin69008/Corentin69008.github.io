@@ -12,4 +12,5 @@ Objectif: cloner le projet avec Git pour l'installer localement,
 lancer le serveur et voir le site sur la machine.
 
 Utilisation de [Flask]: https://flask.palletsprojects.com/en/2.0.x/
+
 Au début je ne comprenais pas trop comment y utiliser.
