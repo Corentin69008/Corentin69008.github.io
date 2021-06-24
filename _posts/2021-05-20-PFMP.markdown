@@ -1,5 +1,5 @@
 --- 
-layout: Semaine n°1
+layout: post
 title: "PFMP jour n°2"
 --- 
 
