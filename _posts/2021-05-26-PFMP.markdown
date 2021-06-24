@@ -3,3 +3,11 @@ layout: post
 title: "PFMP"
 ---
 
+J'ai terminer le cours sur le terminal sur OpenClassRoom
+
+J'ai réussi a ouvrir le site web en utilisant Flask
+
+ligne qui était en rouge: 
+```
+Warning: This is a development server. Do not use it in a production deployment
+``` 
