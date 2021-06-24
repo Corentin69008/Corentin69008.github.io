@@ -10,9 +10,7 @@ qui a été créé dans un dossier
 
 On a aussi fait la configuration de Git
 
-'git config --global user.email "mon-email@exemple.com"'
-
- et
+'git config --global user.email "mon-email@exemple.com"' et
 
 'git config --global user.name "Mon Nom"'
 
