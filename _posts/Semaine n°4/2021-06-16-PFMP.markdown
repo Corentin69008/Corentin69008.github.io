@@ -1,0 +1,9 @@
+---
+title: "PFMP jour n°22"
+---
+
+J'ai mis le site en ligne fallait que je rajoute des informations et du contenue.
+
+Et j'ai réussi a me débloquer sur Jekyll
+
+J'ai décider de continuer à explorer Jekyll pour pouvoir mieux y  exploiter et reprendre le projet Code Loupe je le reprendrais après.
