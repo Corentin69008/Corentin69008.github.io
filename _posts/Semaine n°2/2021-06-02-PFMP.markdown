@@ -1,0 +1,10 @@
+--- 
+title: "PFMP jour n°11"
+---
+
+- Dans le projet Code Loupe:
+  - enrichissement du fichier README en expliquant comment l'installer et le lancer.
+  - afficher un projet au hasard qui est sur le github.
+  - avoir un bouton pour relancer la recherche d'un nom de projet sur github de manière aléatoire.
+
+Je n'avais pas compris le sens du bouton et comment le réaliser   

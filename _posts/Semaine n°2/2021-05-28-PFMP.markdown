@@ -1,0 +1,17 @@
+---
+layout: post
+title: "PFMP jour n°8"
+---
+
+J'ai effectuer un partage du projet Code Loupe vers le github de scopyleft
+
+Ce que je devais faire:
+
+- comme chaque vendredi, je remplis ma fiche Cerise projet
+- j'ai du expliquer la différence entre site statique et site dynamique
+- construction d'un site ou blog statique pour partager le journal Hackmd et pour construire le rapport de stage
+  - utilisation de [Github_pages](https://pages.github.com/) et [Jekyll](https://jekyllrb.com/)
+  - créer un projet dans le groupe Scopyleft de github
+
+- partager le projet sur le github de Scopyleft, (https://github.com/scopyleft)
+Nom du projet Code Loupe  
