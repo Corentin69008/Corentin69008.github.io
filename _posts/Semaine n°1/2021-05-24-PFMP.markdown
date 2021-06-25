@@ -1,0 +1,11 @@
+---
+layout: post
+title: "PFMP jour n°4"
+---
+
+J'avais toujours pas compris comment utiliser Flask
+même avec des aides sur internet.
+
+J'ai travailler sur la programmation avec Python, mais c'était assez compliqué.
+J'ai regardé des tutos pour savoir comment utiliser Python.
+

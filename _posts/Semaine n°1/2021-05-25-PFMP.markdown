@@ -1,0 +1,25 @@
+---
+layout: post
+title: "PFMP jour n°5"
+---
+
+Mon tuteur de stage ma aidé a me débloquer sur Flask et le versionning Git
+
+On a utiliser la commande 'rm -rf .git' pour supprimer le répertoire '.git'
+qui a été créé dans un dossier
+
+On a aussi fait la configuration de Git
+
+'git config --global user.email "mon-email@exemple.com"' et
+
+'git config --global user.name "Mon Nom"'
+
+'git log' pour afficher l'historique des commits.
+
+On a fait notre premier commit en utilisant l'interface de VisualCodeStudio.
+
+Ce que je devais faire: 
+
+- reprendre le cours du terminal sur OpenClassRoom
+- faire fonctionner flask sur mon ordinateur
+- mettre le projet sur github dans le groupe Scopyleft
