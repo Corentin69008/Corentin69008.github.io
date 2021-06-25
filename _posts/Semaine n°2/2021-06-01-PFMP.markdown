@@ -8,6 +8,6 @@ J'ai déplacer le projet dans le groupe Scopyleft
   - Utilisation de [Github_pages](https://pages.github.com/) et
     [Jekyll](https://jekyllrb.com/).
 
-Suivre le tuto sur https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+Suivre le tuto sur <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll>
 
 J'ai eu un problème car quand je taper la commande jekyll, Git bash ne reconnaissait pas la commande
