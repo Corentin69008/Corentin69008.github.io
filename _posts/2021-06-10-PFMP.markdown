@@ -2,11 +2,11 @@
 title: "PFMP jour n°17"
 ---
 
-Déplacement sur Paris pour l'Hackathon Descodeuses (https://descodeuses.org/) le 1er et de 2 juillet
+Déplacement sur Paris pour l'Hackathon Descodeuses (<https://descodeuses.org/>) le 1er et de 2 juillet
 
 Travail sur le site perso et le mettre en ligne en utilisant Jekyll
 
-- exemple d'un README: https://github.com/betagouv/rdv-solidarites.fr/blob/master/INSTALL.md
+- exemple d'un README: <https://github.com/betagouv/rdv-solidarites.fr/blob/master/INSTALL.md>
 
 Nettoyage des extensions du VisualCodeStudio.
 
