@@ -2,3 +2,10 @@
 title: "PFMP jour n°16"
 ---
 
+Je comprenais pas trop comment utiliser GitHub desktop j'ai trouver que c'était assez dure a comprendre.
+
+J'ai eu un blocage sur le tuto pour la création du site
+ - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-pages-site-with-jekyll
+
+Je n'arivais pas a mettre le 'gemfile' ca qui me permettais d'avancer.
+ 
