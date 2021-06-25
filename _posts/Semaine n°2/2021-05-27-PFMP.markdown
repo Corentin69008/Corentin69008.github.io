@@ -8,16 +8,16 @@ Je me suis poser une question si on pouvais changer l'adresse IP:
 
 127.0.0.1 == localhost
 
-https://fr.wikipedia.org/wiki/Localhost
+<https://fr.wikipedia.org/wiki/Localhost>
 
 Ce que j'ai du faire:
 
 - partager le projet sur le github de Scopyleft
-  - https://github.com/scopyleft
+  - <https://github.com/scopyleft>
 
 - Nom du projet Code Loupe
 - participation à la réunion interne de Scopyleft
 - commencer à regarder comment utiliser l'API github
-  - https://docs.github.com/en/rest
-  - https://www.thepythoncode.com/article/using-github-api-in-python
+  - <https://docs.github.com/en/rest>
+  - <https://www.thepythoncode.com/article/using-github-api-in-python>
      
