@@ -13,5 +13,5 @@ Ce que je devais faire:
   - utilisation de [Github_pages](https://pages.github.com/) et [Jekyll](https://jekyllrb.com/)
   - créer un projet dans le groupe Scopyleft de github
 
-- partager le projet sur le github de Scopyleft, (https://github.com/scopyleft)
+- partager le projet sur le github de Scopyleft, (<https://github.com/scopyleft>)
 Nom du projet Code Loupe  
