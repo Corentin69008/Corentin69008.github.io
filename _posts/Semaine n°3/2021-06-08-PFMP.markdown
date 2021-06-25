@@ -1,0 +1,8 @@
+---
+title: "PFMP jour n°15"
+---
+
+Je comprenais pas trop comment enrichir le README
+
+Pour comprendre comment utiliser Git GUI je me suis aidé avec une vidéo youtube:
+ - https://youtu.be/cRounphvOC8

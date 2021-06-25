@@ -1,0 +1,10 @@
+---
+title: "PFMP jour n°12"
+---
+
+Installation de Jekyll:
+ - https://jekyllrb.com/docs/installation/windows/
+
+- enrichissement de README (voir https://docs.python-guide.org/writing/structure/)
+
+- participation à la réunion interne de Scopyleft tout les jeudi.
