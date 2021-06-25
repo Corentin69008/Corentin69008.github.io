@@ -1,3 +1,14 @@
 ---
 title: "PFMP jour n°9"
 ---
+
+J'ai du supprimer un des projets code_loupe, car j'en avais rajouter un.
+
+J'ai du aussi le déplacer dans le groupe Scopyleft mais je n'avais pas encore les permissions pour y transferé.
+
+Continuation a la construction du Blog
+
+explication de la différence entre un site statique et un site dynamique:
+
+- site statique: on ne peut pas changer le contenue de la page sauf si on change le code source.
+- site dynamique: on peut affichier différent contenue avec le même code source.
