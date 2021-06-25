@@ -8,3 +8,7 @@ html{
 body{
   font-family: fantasy;
 }
+
+body{
+  background-image: url(informatique.jpg);
+}  
