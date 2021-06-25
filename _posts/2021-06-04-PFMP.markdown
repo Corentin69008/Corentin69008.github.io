@@ -1,6 +1,0 @@
----
-title: "PFMP jour n°13"
----
-
-- L'installation de Jekyll je les terminer.
-- Fiche cerise pro remplie.
