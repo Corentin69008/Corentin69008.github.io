@@ -2,3 +2,19 @@
 title: "PFMP jour n°14"
 ---
 
+Ce que je devais faire:
+
+- Utilisation de Git GUI et savoir comment ca fonctionne, je voulais savoir comment y utiliser
+  - GUI == Graphical User Interface
+  - voir le client github sous Windows
+    https://desktop.github.com/ c'est plus difficile a utiliser que Git
+
+- Je devais mettre mon site perso en ligne (url= https//corentin69008.github.io)
+  - utiliser Jekyll
+
+- Dans le projet Code Loupe j'ai du faire un 'git pull' pour récupérer la dernière version.
+
+- Pages pour faciliter l'utilisation de Git:
+  - https://gitshett.wtf/
+  - https://git-cheatsheet.com/
+  - https://git-cheat-readthedocs.io/en/latest/ 
