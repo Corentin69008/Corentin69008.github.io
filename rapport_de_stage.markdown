@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rapport de stage"
-permalink: /about/
+permalink: /title/
 ---
 
 Bonsoir
