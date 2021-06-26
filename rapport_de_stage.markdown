@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: title
 title: "Rapport de stage"
 permalink: /title/
 ---
