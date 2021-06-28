@@ -1,0 +1,11 @@
+---
+title: "PFMP jour n°29"
+---
+
+Je continue l'historique des notes d'u Hackmd dans les '_post'
+
+J'essaye de mettre une entrée pour le menu du rapport de stage
+
+Je me poser des question par rapport a mettre des liens: 
+
+car je savais pas si il fallait faire comme ca: [Github_pages](https://pages.github.com/)

@@ -1,0 +1,26 @@
+---
+title: "PFMP jour n°25"
+---
+
+- J'ai effectuer un git push du projet Code Loupe vers:
+  - <https://github.com/Corentin69008/Code-Loupe.git>
+
+- J'ai regarder des vidéo youtube pour apprendre à utiliser Jekyll.
+
+Objectif: 
+
+- faire un 'git pull' pour récupérer les modifications
+  - les modifications je les ai recupérer sur VisualCodeStudio
+- commencer à personnaliser le site avec du CSS (fichier 'main.css')
+  - choisir la couleur de fond par défaut
+  - choisir une police de caractère par défaut ('font' en anglais)
+  - et d'autre élément visuel si affinité
+
+- En bonus, faire une entrée de menu pour le rapport de stage (comme 'about.markdown')
+
+On part du principe que le blog servira pour le journal (en reportant le contenu de ce pad pour commencer), et une page spécial pour le rapport de stage.
+
+Documentation autour du web (HTML, CSS, JavaScript, ...) 
+- <https://developer.mozilla.org/fr/>
+- <https://developer.mozilla.org/en-US/docs/Web/CSS/font>
+- <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics>
