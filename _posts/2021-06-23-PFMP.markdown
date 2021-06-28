@@ -1,0 +1,9 @@
+---
+title: "PFMP jour n°27"
+---
+
+J'ai changer la police d'écriture du site.
+
+J'ai essayer avec des police de ce site: <https://www.w3.org/Style/Exemples/007/fonts.fr.html>
+
+Ajouter l'historique des notes du Hackmd dans les '_post' du blog (sans catégorie)
