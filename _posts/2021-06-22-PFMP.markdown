@@ -1,9 +1,0 @@
----
-title: "PFMP jour n°26"
----
-
-J'ai mis la couleur de fond par défaut
-
-Les codes couleurs: <https://developer.mozilla.org/fr/docs/Web/CSS/color_value>
-
-je continue a essayer des police de caractère
