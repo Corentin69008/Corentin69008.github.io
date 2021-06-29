@@ -6,7 +6,6 @@ permalink: /Rapport-de-Stage/
 
 Depreux-Bama Corentin 
 
-## Page du Rapport de Stage PFMP n°2
 
 - Sommaire:
   - Présentation de l'entreprise.
