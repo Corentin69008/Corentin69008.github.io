@@ -5,5 +5,3 @@ permalink: /Rapport-de-Stage/
 ---
 
 Ceci est une page bidon que Yannick ajoute pour montrer l'exemple
-
-![Luffy](Luffy.png)
