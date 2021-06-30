@@ -36,16 +36,16 @@ Mon tuteur ma aidé à me débloquer sur l'installation de Flask et sur le versi
 
 Semaine n°2:
 
-- Chaque jeudi il y a eu une réunion interne de l'entreprise (un amadou):
+- Participation a la réunion interne de l'entreprise (un amadou)
 
 - Création d'un projet sur GitHub pour construire le site statique en python:
   - utilisation de GitHub pages et Jekyll
 
 Semaine n°3:
 
-- J'ai essayer d'apprendre à utiliser Git GUI qui est une interface graphique, j'ai eu un peu de mal a comprendre.
+- J'ai appris à utiliser Git GUI qui est une interface graphique, j'ai eu un peu de mal a comprendre.
 - J'ai essayer d'utiliser GitHub desktop mais je n'ai pas compris le fonctionnement.
-- J'ai suivi/regarder des vidéos pour utiliser GitHub pages et Jekyll.
+- J'ai suivi des tutos ou regarder des vidéos pour utiliser GitHub pages et Jekyll.
  
 Semaine n°4:
 
@@ -56,11 +56,11 @@ Ou continuer à utiliser Jekyll.
 Semaine n°5:
 
 - j'ai donc choisi de continuer le projet jekyll et de faire un site web.
-- Dans ce site il y a le journal des tâche effectuer quotidiennement et mon rapport de stage.
+- Dans ce site il y a le journal des tâche que j'ai effectuer quotidiennement et une page qui affichera mon rapport de stage.
 - Personnalisation du site avec du CSS:
   - choisir la couleur de fond par défaut
   - choisir la police de caractère ('font')
 
-J'ai du faire une entrée pour le rapport de stage
+J'ai du faire une page d'entrée pour mon rapport de stage
 
 Semaine n°6:
