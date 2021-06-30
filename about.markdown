@@ -4,7 +4,7 @@ title: À propos
 permalink: /about/
 ---
 
-![image en local](/assets/image/coco-lyon.png)
+![portrait en local](/assets/image/lyn.png)
 
 Ceci est le site de Corentin Depreux-Bama.
 
