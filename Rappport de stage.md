@@ -100,3 +100,19 @@ Semaine n°5:
 J'ai du faire une page d'entrée pour mon rapport de stage
 
 Semaine n°6:
+
+- J'ai du modifier la police de carctère pour faire en sorte d'y voir sur tout les navigateurs.
+- afficher une image dans le corps d'un message
+- utilisation d'une image de fond en CSS
+- remplissage de la page 'à propos' avec une image (portrait)
+
+J'ai du modifier un lien pour faire un retour vers l'accueil (le journal).
+
+J'ai également ajouter une page pour mon rapport de stage à part du journal.
+
+Ajouter un lien faire le GitHub pour éditer les pages
+
+corriger le '_config.yml'
+
+Ajout dans le README les explications de comment démarrer le projet localement 
+
