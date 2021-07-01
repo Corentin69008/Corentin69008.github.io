@@ -110,7 +110,7 @@ J'ai du modifier un lien pour faire un retour vers l'accueil (le journal).
 
 J'ai également ajouter une page pour mon rapport de stage à part du journal.
 
-Ajouter un lien faire le GitHub pour éditer les pages
+Ajout d'un lien vers le GitHub pour éditer les pages
 
 corriger le '_config.yml'
 
