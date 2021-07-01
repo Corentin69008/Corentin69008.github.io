@@ -17,7 +17,29 @@ Depreux-Bama Corentin
 
 Nom de l'entreprise: Scopyleft
 
+L'entreprise a été créer par 4 developpeur en 2011. 
 
+C'est une des premières scop qui a était créer.
+
+Ils ont une gouvernance horizontale.
+
+### Oraganigramme 
+
+Les développeurs et développeuse:
+
+- Yannick
+- David
+- Vincent
+- Audrey 
+
+Gestions de projet et autre: 
+
+- Juliette
+- Sarah
+
+Le coach et celui qui aide tout le monde:
+
+- Stéphane
 
 
 
