@@ -11,3 +11,4 @@ Et pour mettre une description au site en bas de page.
 
 utilisation du 'main.css' pour personnaliser la page en CSS.
 
+ensuite pour lancer le projet on fais un 'git push -u origin main' qui permet d'envoyer les modif vers le github.
