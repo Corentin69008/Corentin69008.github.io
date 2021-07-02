@@ -2,7 +2,7 @@
 title: "PFMP jour n°29"
 ---
 
-Je continue l'historique des notes d'u Hackmd dans les '_post'
+Je continue l'historique des notes du Hackmd dans les '_post'
 
 J'essaye de mettre une entrée pour le menu du rapport de stage
 
