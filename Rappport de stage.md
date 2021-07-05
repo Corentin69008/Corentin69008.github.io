@@ -17,19 +17,19 @@ Depreux-Bama Corentin
 
 Nom de l'entreprise: Scopyleft
 
+L'entreprise à été créer par 4 developpeur en 2011.
+
+C'est une des premières scop qui à était créer.
+
 Elle ce base sur la confiance et de travailler sur plusieurs projets.
 Tout en privilégiant le bien être et l'enthousiasme de chacun(e)
 
-Les membres de cette scop est libre de choisir son salaire en fonction de leur besoins, de prendre des vacances quand ils le souhaite. 
+Les membres de cette scop est libre de choisir son salaire en fonction de leur besoins, et de prendre des vacances quand ils le souhaitent. 
 
-Elle a besoins de prendre soins de l'enthousiasme sinon ils perde la motivation pour faire des projets alors qu'il ne faut pas.
+Elle a besoins que tout les membres sois enthousiaste à faire leur travail sinon ils perdent la motivation de faire des projets.
 
 Les réunions (amadou) sont basé sur l'exprimation des projets à faire et de la gestion économique,
 mais c'est surtout pour aidé les pernonnes qui sont bloquer sur certain projet.
-
-L'entreprise a été créer par 4 developpeur en 2011. 
-
-C'est une des premières scop qui a était créer.
 
 Ils ont une gouvernance horizontale.
 
