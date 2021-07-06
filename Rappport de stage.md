@@ -10,6 +10,7 @@ Depreux-Bama Corentin
 - Sommaire:
   - Présentation de l'entreprise.
   - Description des différentes situations dde travail, des tâches réalisées.
+  - Etude de cas
   - Remerciements
   - Conclusion
 
