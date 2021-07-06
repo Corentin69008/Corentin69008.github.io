@@ -12,4 +12,3 @@ Il contient le journal se sont stage de fin d'année scolaire 2021.
 
 Il y a également sont rapport de stage.
 
-<a href="github.com/Corentin69008/Corentin69008.github.io"></a>
