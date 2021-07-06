@@ -117,3 +117,15 @@ corriger le '_config.yml'
 
 Ajout dans le README les explications de comment démarrer le projet localement 
 
+Semaine n°7:
+
+J'ai eu une réunion pour avoir des informations sur Scopyleft.
+
+J'ai utiliser les ancres pour avoir un sommaire cliquable.
+
+J'ai du regarder comment avoir un site valide avec,
+le W3C qui propose un outil pour vérifier qu'un site web en valide vis-à-vis de la norme HTML.
+
+Avoir un site valide car le test montre une série d'erreur et de warning.
+
+insertion d'un badge CSS valide en footer
